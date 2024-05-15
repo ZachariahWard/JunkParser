@@ -1,6 +1,3 @@
-Sure, here's a README for your `ZipCodeParser`:
-
----
 
 # ZipCodeParser
 
